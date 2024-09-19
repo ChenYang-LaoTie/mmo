@@ -4,8 +4,9 @@ import (
 	"fmt"
 	"mmo/core"
 	"mmo/pb"
-	"zinx/ziface"
-	"zinx/znet"
+
+	"github.com/ganhuone/zinx/ziface"
+	"github.com/ganhuone/zinx/znet"
 
 	"google.golang.org/protobuf/proto"
 )

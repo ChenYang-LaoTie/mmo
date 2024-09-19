@@ -6,7 +6,8 @@ import (
 	"math/rand"
 	"mmo/pb"
 	"sync"
-	"zinx/ziface"
+
+	"github.com/ganhuone/zinx/ziface"
 
 	"google.golang.org/protobuf/proto"
 )

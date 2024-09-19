@@ -4,8 +4,9 @@ import (
 	"fmt"
 	"mmo/apis"
 	"mmo/core"
-	"zinx/ziface"
-	"zinx/znet"
+
+	"github.com/ganhuone/zinx/ziface"
+	"github.com/ganhuone/zinx/znet"
 )
 
 func main() {
